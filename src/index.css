@@ -1,0 +1,21 @@
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.BeforeAfter {
+   
+    text-align: center;
+
+  }
+  
+  .contentWrapper {
+    
+   
+   width: 50%;
+    
+  }
+  
